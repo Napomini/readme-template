@@ -101,7 +101,7 @@ ___
 <br>
 
 ## Task-List
-- [x] World Tour USA
+- [x] World Tour UK
 - [x] World Tour Malaysia
 - [x] World Tour Australia
 - [] World Tour Bangladesh
