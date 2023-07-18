@@ -138,7 +138,7 @@ https://straykids.jype.com
 
 <!-- emoji from emojipedia.com -->
 
-❤️❤️❤️❤️❤️❤️
+❤️❤️❤️❤️❤️
 
 <br>
 
