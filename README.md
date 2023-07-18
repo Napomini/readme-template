@@ -139,7 +139,7 @@ https://straykids.jype.com
 <!-- emoji from emojipedia.com -->
 
 ❤️❤️❤️❤️❤️
-
+pic2 alignment issue fixed.
 <br>
 
 <!-- Table -->
