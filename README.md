@@ -7,7 +7,7 @@ They are total 8 members.
 <!-- Heading -->
 # Stray Kidsssss ❤️
 ## stray kids everywhere all around the world.
-### You make stray kids stay
+### You make stray kids stay, Love Stay hey hey 
 <!-- paragraph -->
 <p>Stray Kids (Korean: 스트레이 키즈; RR: Seuteurei Kijeu; often abbreviated as SKZ) is a South Korean boy band formed by JYP Entertainment through the 2017 reality show of the same name. The group is composed of eight members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, and I.N. Originally a nine-piece group, member Woojin left due to undisclosed personal reasons in October 2019.
 
