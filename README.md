@@ -5,7 +5,7 @@ They are total 8 members.
 <!-- horizontal rule -->
 ---
 <!-- Heading -->
-# Stray Kidsssss ❤
+# Stray Kidsssss 
 ## stray kids everywhere all around the world.
 ### You make stray kids stay, Love Stay hey hey 
 <!-- paragraph -->
